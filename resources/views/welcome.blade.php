@@ -68,8 +68,8 @@
                         <p class="card-text text-muted">Bekijk de repository van het project hieronder:</p>
                     </div>
                     <div class="card-footer d-flex justify-content-between align-items-center">
-                        <small class="text-muted">Tech: Blazor, .NET, C#</small>
-                        <a href="https://github.com/youssef03040/pizzaplace-blazor" class="btn btn-sm btn-primary" target="_blank" rel="noopener noreferrer">Bekijk repository</a>
+                        <small class="text-muted">Tech: Blazor, .NET, C#, PHP, Html, Flutter, Laravel</small>
+                        <a href="https://github.com/youssef03040?tab=repositories" class="btn btn-sm btn-primary" target="_blank" rel="noopener noreferrer">Bekijk repository</a>
                     </div>
                 </div>
             </section>
